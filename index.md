@@ -2,7 +2,9 @@
 
 You can dowload our [editor on GitHub](https://github.com/GiaBach1999/EPI-Text-Editor-).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is text editor ?
+A text editor is a type of computer program that edits plain text. Such programs are sometimes known as "notepad" software, following the naming of Microsoft Notepad.Text editors are provided with operating systems and software development packages, and can be used to change files such as configuration files, documentation files and programming language source code.
+
 
 ### Markdown
 
