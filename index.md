@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to QuickMath101 !
 
-You can use the [editor on GitHub](https://github.com/quic/mytxteditor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can dowload our [editor on GitHub](https://github.com/GiaBach1999/EPI-Text-Editor-).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
